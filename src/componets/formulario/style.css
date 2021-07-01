@@ -1,0 +1,39 @@
+.adicionaNotas{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-top: 20px;
+}
+.adicionaNotas select{
+    margin-bottom: 10px;
+    padding: 10px 5px;
+    background-color: rgb(169, 169, 169);
+    border: 1px rgb(169, 169, 169) solid;
+    border-radius: 5px;
+    color: white;
+}
+.adicionaNotas input{
+    margin-bottom: 10px;
+    padding: 10px 5px;
+    background-color: rgb(169, 169, 169);
+    border: 1px rgb(169, 169, 169) solid;
+    border-radius: 5px;
+    color: white;
+}
+.adicionaNotas textarea{
+    padding: 10px 5px 60px 5px;
+    background-color: rgb(169, 169, 169);
+    border: 1px rgb(169, 169, 169) solid;
+    border-radius: 5px;
+    color: white;
+}
+.adicionaNotas button{
+    width:fit-content;
+    padding: 5px 30px;
+    margin-top: 5px;
+    color: white;
+    background-color: rgb(38, 42, 63);
+    border: 1px rgb(38, 42, 63) solid;
+    border-radius: 5px;
+    align-self: flex-end;
+}

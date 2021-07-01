@@ -1,0 +1,10 @@
+.listaNotas{
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    width: 50%;
+    margin-top: 20px;
+}
+.listaNotas div{
+    font-size: 0;
+}
